@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/stars/your-username/your-repo-name" alt="Stars">
   <img src="https://img.shields.io/github/forks/your-username/your-repo-name" alt="Forks">
   <img src="https://img.shields.io/github/issues/your-username/your-repo-name" alt="Issues">
-</p>
+</p> 
 
 > A modern, real-time web chat application built with Next.js, React, and Socket.IO. It features a sleek and responsive user interface created with Radix UI and shadcn/ui components.
 
