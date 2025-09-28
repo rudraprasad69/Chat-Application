@@ -1,7 +1,8 @@
 # Real-Time Chat Application
 
 <p align="center">
-  <img src="path/to/your/chat-app-banner.png" alt="Real-Time Chat App Banner" width="800">
+  <img width="930" height="424" alt="{3B05CBEA-3583-4530-8BEE-3672224DEAA1}" src="https://github.com/user-attachments/assets/163d229f-0f07-478c-9769-ae5812a379fd" />
+
 </p>
 
 <p align="center">
