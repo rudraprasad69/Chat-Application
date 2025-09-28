@@ -26,7 +26,7 @@
 ## 📸 Screenshots
 
 | Chat Settings and User Profile                |                                                 |
-| --------------------------------------------- | ----------------------------------------------- | 
+| --------------------------------------------- | ----------------------------------------------- |  
 | <img width="916" height="414" alt="{7FD103B9-20D1-4933-B42D-207F31130B12}" src="https://github.com/user-attachments/assets/a2983889-cf59-481b-a686-9e14d8b47200" />
 | <img width="921" height="420" alt="{7A44A73F-3386-438C-8A29-1E206768D4D6}" src="https://github.com/user-attachments/assets/d590f4e9-0d4e-45dd-9f93-a90b81ced8e3" />
 
