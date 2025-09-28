@@ -14,11 +14,6 @@
 
 > A modern, real-time web chat application built with Next.js, React, and Socket.IO. It features a sleek and responsive user interface created with Radix UI and shadcn/ui components.
 
-## 🚀 Live Demo
-
-A live version of the chat application is available here:
-**[https://your-live-demo-url.com](https://your-live-demo-url.com)**
-
 ## ✨ Key Features
 
 -   **Real-Time Messaging:** Instant message delivery and reception using WebSockets via Socket.IO.
