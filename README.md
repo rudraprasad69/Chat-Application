@@ -31,8 +31,6 @@
 | <img width="921" height="420" alt="{7A44A73F-3386-438C-8A29-1E206768D4D6}" src="https://github.com/user-attachments/assets/d590f4e9-0d4e-45dd-9f93-a90b81ced8e3" />
 
 
-*(Action: Add screenshots of your application to showcase the user interface.)*
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -98,5 +96,3 @@ You must have [Node.js](https://nodejs.org/en/) (v18.17 or later) installed.
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-*(Action: Create a file named `LICENSE` and add the MIT License text.)*
